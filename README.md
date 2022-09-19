@@ -2,7 +2,7 @@
 
 This is an android application development project which is used to manage expenses and split them among each individual in a group.
 
-# INPUT
+### INPUT
 
 It takes the date and time as the input.
 
@@ -10,7 +10,7 @@ It reuqires names of each individual in the group.
 
 It can be used as a calander to mark dates of the trips.
 
-# OUTPUT
+### OUTPUT
 
 Expenses
 
